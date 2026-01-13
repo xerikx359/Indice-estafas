@@ -1,33 +1,37 @@
 # Estafa del SIM Swapping silencioso
 
 ## Descripción
-La **estafa del SIM Swapping silencioso** es una variante poco común pero real de fraude móvil detectada en España y otros países europeos. Ha sido advertida por organismos como la :contentReference[oaicite:0]{index=0} y el :contentReference[oaicite:1]{index=1}.
+El SIM Swapping silencioso es una estafa real relacionada con los teléfonos móviles. Consiste en duplicar la tarjeta SIM de una persona sin que esta se dé cuenta de forma inmediata. A diferencia de otras estafas más conocidas, no utiliza enlaces falsos ni mensajes engañosos, sino que se aprovecha de la suplantación de identidad ante la compañía telefónica.
 
-A diferencia del SIM Swapping clásico, en esta modalidad la víctima **no recibe avisos inmediatos** ni llamadas sospechosas.
+Este tipo de fraude ha sido advertido por organismos oficiales de ciberseguridad en España. 
 
-## ¿Cómo funciona?
-Los estafadores consiguen duplicar la tarjeta SIM de la víctima tras obtener datos personales filtrados en Internet.  
-Una vez activada la SIM duplicada:
+## Cómo funciona
+Los estafadores obtienen datos personales de la víctima a través de filtraciones de información o redes sociales. Con esos datos, solicitan a la compañía telefónica un duplicado de la tarjeta SIM.
 
-- El móvil original pierde cobertura durante horas
-- Los SMS y llamadas llegan al dispositivo del estafador
-- Se accede a cuentas que usan verificación por SMS
+Cuando la SIM duplicada se activa:
+La víctima puede quedarse sin cobertura temporalmente
+Los mensajes SMS y llamadas se redirigen al estafador
+Se pueden restablecer contraseñas de cuentas personales
 
-En muchos casos, la víctima solo se da cuenta cuando ya se han realizado cambios en sus cuentas o cargos no autorizados.
+En muchos casos, la víctima no detecta el problema hasta que observa accesos no autorizados o movimientos extraños en sus cuentas.
 
-## Por qué es una estafa rara
-- No hay enlaces ni mensajes sospechosos
-- No requiere interacción directa de la víctima
-- Puede pasar desapercibida durante bastante tiempo
+## Por qué es una estafa poco común
+No hay interacción directa con la víctima
+No aparecen mensajes sospechosos ni enlaces
+El ataque puede pasar desapercibido durante horas o días
 
 ## Señales de alerta
-- Pérdida repentina de cobertura sin motivo
-- Mensajes de cambio de contraseña no solicitados
-- Imposibilidad de recibir SMS de verificación
+Pérdida de cobertura sin motivo aparente
+Problemas para recibir códigos de verificación
+Notificaciones de cambios en cuentas que no se han solicitado
 
 ## Medidas de prevención
-- Activar verificación en dos pasos con apps, no SMS
-- Añadir un PIN de seguridad a la SIM
-- Contactar con el operador ante cualquier pérdida de señal anómala
+Usar aplicaciones de verificación en dos pasos en lugar de SMS
+Solicitar un PIN de seguridad para la tarjeta SIM
+Contactar con el operador si el móvil pierde cobertura de forma repentina
+
+## Conclusión
+El SIM Swapping silencioso es un ejemplo de cómo algunas estafas móviles no dependen del engaño directo, sino del uso indebido de datos personales. Por ello, es importante proteger la información personal y revisar cualquier comportamie
+
 
 

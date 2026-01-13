@@ -38,6 +38,6 @@ Contactar con el operador si el móvil pierde cobertura de forma repentina
 El SIM Swapping silencioso es un ejemplo de cómo algunas estafas móviles no dependen del engaño directo, sino del uso indebido de datos personales. Por ello, es importante proteger la información personal y revisar cualquier comportamie
 ## Noticias sobre la estafa
 [Desmantelo de 23600 euros](https://www.europapress.es/castilla-y-leon/noticia-desmantelada-red-estafo-23600-euros-valladolid-metodo-sim-swapping-20251004112153.html?utm_source=chatgpt.com)
-[Victima en Melilla que pierde miles de euros por SIM Swapping](https://melillahoy.es/una-victima-de-melilla-entre-los-afectados-por-una-estafa-de-miles-de-euros-mediante-la-tecnica-del-sim-swapping/?utm_source=chatgpt.com)
+[Victima en Melilla que pierde miles de euros por SIM Swapping(https://melillahoy.es/una-victima-de-melilla-entre-los-afectados-por-una-estafa-de-miles-de-euros-mediante-la-tecnica-del-sim-swapping/?utm_source=chatgpt.com)
 
 

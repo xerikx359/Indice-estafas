@@ -1,3 +1,3 @@
 # Indice-estafas
-[Estafa Erik](https://github.com/xerikx359/Indice-estafas/blob/main/README.md)
-[Estafa Aitor]()
+[Estafa Erik, SIM Swapping](https://github.com/xerikx359/Indice-estafas/edit/main/README.md)
+[Estafa Aitor, DeepFakes]()

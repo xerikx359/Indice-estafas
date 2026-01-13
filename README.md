@@ -1,6 +1,6 @@
-# 📱 Estafa del SIM Swapping silencioso
+# Estafa del SIM Swapping silencioso
 
-## 📰 Descripción
+## Descripción
 La **estafa del SIM Swapping silencioso** es una variante poco común pero real de fraude móvil detectada en España y otros países europeos. Ha sido advertida por organismos como la :contentReference[oaicite:0]{index=0} y el :contentReference[oaicite:1]{index=1}.
 
 A diferencia del SIM Swapping clásico, en esta modalidad la víctima **no recibe avisos inmediatos** ni llamadas sospechosas.

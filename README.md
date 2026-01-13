@@ -4,6 +4,7 @@
 
 ## Descripción
 El SIM Swapping silencioso es una estafa real relacionada con los teléfonos móviles. Consiste en duplicar la tarjeta SIM de una persona sin que esta se dé cuenta de forma inmediata. A diferencia de otras estafas más conocidas, no utiliza enlaces falsos ni mensajes engañosos, sino que se aprovecha de la suplantación de identidad ante la compañía telefónica.
+
 Esta estafa sirve para que los delincuentes controlen la línea telefónica de la víctima y puedan acceder a sus cuentas personales mediante códigos SMS.
 
 Este tipo de fraude ha sido advertido por organismos oficiales de ciberseguridad en España. 

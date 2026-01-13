@@ -1,5 +1,8 @@
 # Estafa del SIM Swapping silencioso
-<img width="168" height="300" alt="imagen" src="https://github.com/user-attachments/assets/e712278d-364d-497c-9c82-791dcbff4abb" />
+<p align="center">
+  <img src="./5ce6d78b-9e38-4bf0-a08a-8d02e6590e5e.png" alt="SIM Not Valid" width="600">
+</p>
+
 
 ## Descripción
 El SIM Swapping silencioso es una estafa real relacionada con los teléfonos móviles. Consiste en duplicar la tarjeta SIM de una persona sin que esta se dé cuenta de forma inmediata. A diferencia de otras estafas más conocidas, no utiliza enlaces falsos ni mensajes engañosos, sino que se aprovecha de la suplantación de identidad ante la compañía telefónica.

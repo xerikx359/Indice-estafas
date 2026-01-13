@@ -1,7 +1,5 @@
 # Estafa del SIM Swapping silencioso
-<p align="center">
   <img src="./5ce6d78b-9e38-4bf0-a08a-8d02e6590e5e.png" alt="SIM Not Valid" width="600">
-</p>
 
 
 ## Descripción

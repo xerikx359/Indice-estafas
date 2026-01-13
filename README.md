@@ -33,6 +33,7 @@ Contactar con el operador si el móvil pierde cobertura de forma repentina
 
 ## Conclusión
 El SIM Swapping silencioso es un ejemplo de cómo algunas estafas móviles no dependen del engaño directo, sino del uso indebido de datos personales. Por ello, es importante proteger la información personal y revisar cualquier comportamie
-
+## Noticias sobre la estafa
+https://www.europapress.es/castilla-y-leon/noticia-desmantelada-red-estafo-23600-euros-valladolid-metodo-sim-swapping-20251004112153.html?utm_source=chatgpt.com
 
 

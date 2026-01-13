@@ -3,14 +3,14 @@
 
 
 ## Descripción
-El SIM Swapping silencioso es una estafa real relacionada con los teléfonos móviles. Consiste en duplicar la tarjeta SIM de una persona sin que esta se dé cuenta de forma inmediata. A diferencia de otras estafas más conocidas, no utiliza enlaces falsos ni mensajes engañosos, sino que se aprovecha de la suplantación de identidad ante la compañía telefónica.
+El **SIM Swapping** silencioso es una estafa real relacionada con los teléfonos móviles. Consiste en duplicar la **tarjeta SIM** de una persona sin que esta se dé cuenta de forma inmediata. A diferencia de otras estafas más conocidas, no utiliza enlaces falsos ni mensajes engañosos, sino que se aprovecha de la suplantación de identidad ante la compañía telefónica.
 
 Esta estafa sirve para que los delincuentes controlen la línea telefónica de la víctima y puedan acceder a sus cuentas personales mediante códigos SMS.
 
 Este tipo de fraude ha sido advertido por organismos oficiales de ciberseguridad en España. 
 
 ## Cómo funciona
-Los estafadores obtienen datos personales de la víctima a través de filtraciones de información o redes sociales. Con esos datos, solicitan a la compañía telefónica un duplicado de la tarjeta SIM.
+Los estafadores obtienen datos personales de la víctima a través de filtraciones de información o redes sociales. Con esos datos, solicitan a la compañía telefónica un duplicado de la **tarjeta SIM**.
 
 Cuando la SIM duplicada se activa:
 La víctima puede quedarse sin cobertura temporalmente
@@ -30,12 +30,12 @@ Problemas para recibir códigos de verificación
 Notificaciones de cambios en cuentas que no se han solicitado
 
 ## Medidas de prevención
-Usar aplicaciones de verificación en dos pasos en lugar de SMS
+Usar aplicaciones de verificación en dos pasos en lugar de **SMS**
 Solicitar un PIN de seguridad para la tarjeta SIM
 Contactar con el operador si el móvil pierde cobertura de forma repentina
 
 ## Conclusión
-El SIM Swapping silencioso es un ejemplo de cómo algunas estafas móviles no dependen del engaño directo, sino del uso indebido de datos personales. Por ello, es importante proteger la información personal y revisar cualquier comportamie
+El **SIM Swapping** silencioso es un ejemplo de cómo algunas estafas móviles no dependen del engaño directo, sino del uso indebido de datos personales. Por ello, es importante proteger la información personal y revisar cualquier comportamie
 ## Noticias sobre la estafa
 [Desmantelo de 23600 euros](https://www.europapress.es/castilla-y-leon/noticia-desmantelada-red-estafo-23600-euros-valladolid-metodo-sim-swapping-20251004112153.html?utm_source=chatgpt.com)
 

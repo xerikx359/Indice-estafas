@@ -1,4 +1,4 @@
-# Estafa del SIM Swapping silencioso
+# Estafa del SIM Swapping silencioso :shipit:
 <img width="474" height="262" alt="imagen" src="https://github.com/user-attachments/assets/2a8b870b-2024-47f3-86aa-9736dee634c3" />
 
 

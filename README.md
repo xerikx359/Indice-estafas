@@ -59,9 +59,10 @@ En muchos casos, los datos personales se compran y venden en la deep web, especi
 
 - Se intercambian credenciales filtradas de servicios online
 
-- Se agrupan datos de una misma persona para facilitar fraudes como el SIM Swapping
+- Se agrupan datos de una misma persona para facilitar fraudes como el **SIM Swapping**
 
-Estos mercados funcionan de forma anónima y suelen usar criptomonedas, lo que dificulta la identificación de los responsables. El SIM Swapping silencioso se apoya en este comercio ilegal de información para que el ataque sea rápido y efectivo.
+Estos mercados funcionan de forma anónima y suelen usar criptomonedas, lo que dificulta la identificación de los responsables. El **SIM Swapping** silencioso se apoya en este comercio ilegal de información para que el ataque sea rápido y efectivo.
+
 ## Por qué es una estafa poco común
 No hay interacción directa con la víctima
 No aparecen mensajes sospechosos ni enlaces

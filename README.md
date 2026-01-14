@@ -19,6 +19,28 @@ Se pueden restablecer contraseñas de cuentas personales
 
 En muchos casos, la víctima no detecta el problema hasta que observa accesos no autorizados o movimientos extraños en sus cuentas.
 
+## Qué datos necesitan los estafadores
+
+Para llevar a cabo un ataque de **SIM Swapping**, los delincuentes no necesitan acceso físico al móvil. Lo que realmente buscan es **información personal suficiente para suplantar la identidad** de la víctima ante la compañía telefónica.
+
+###Los datos más utilizados suelen ser:
+
+-Nombre y apellidos
+
+-Número de teléfono
+
+-DNI o documento de identidad
+
+-Fecha de nacimiento
+
+-Dirección postal
+
+-Operador de telefonía
+
+-Respuestas a preguntas de seguridad
+
+Con una combinación de estos datos, los estafadores pueden convencer al operador de que son el titular legítimo de la línea y solicitar un duplicado de la **tarjeta SIM**.
+
 ## Por qué es una estafa poco común
 No hay interacción directa con la víctima
 No aparecen mensajes sospechosos ni enlaces

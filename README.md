@@ -19,9 +19,19 @@ Se pueden restablecer contraseñas de cuentas personales
 
 En muchos casos, la víctima no detecta el problema hasta que observa accesos no autorizados o movimientos extraños en sus cuentas.
 
-## Qué datos necesitan los estafadores
+## De dónde obtienen estos datos
 
-Para llevar a cabo un ataque de **SIM Swapping**, los delincuentes no necesitan acceso físico al móvil. Lo que realmente buscan es **información personal suficiente para suplantar la identidad** de la víctima ante la compañía telefónica.
+La información personal puede obtenerse de varias formas:
+
+-Filtraciones de datos de empresas o servicios online
+
+-Redes sociales, donde muchas personas comparten información personal sin darse cuenta
+
+-Correos electrónicos y cuentas antiguas comprometidas
+
+-Compra de bases de datos robadas
+
+Organismos oficiales como INCIBE han advertido que gran parte de estos datos ya circulan por internet debido a brechas de seguridad pasadas.
 
 ### Los datos más utilizados suelen ser:
 

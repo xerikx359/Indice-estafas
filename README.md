@@ -23,7 +23,7 @@ En muchos casos, la víctima no detecta el problema hasta que observa accesos no
 
 Para llevar a cabo un ataque de **SIM Swapping**, los delincuentes no necesitan acceso físico al móvil. Lo que realmente buscan es **información personal suficiente para suplantar la identidad** de la víctima ante la compañía telefónica.
 
-###Los datos más utilizados suelen ser:
+### Los datos más utilizados suelen ser:
 
 -Nombre y apellidos
 

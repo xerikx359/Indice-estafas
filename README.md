@@ -23,34 +23,45 @@ En muchos casos, la víctima no detecta el problema hasta que observa accesos no
 
 La información personal puede obtenerse de varias formas:
 
--Filtraciones de datos de empresas o servicios online
+- Filtraciones de datos de empresas o servicios online
 
--Redes sociales, donde muchas personas comparten información personal sin darse cuenta
+- Redes sociales, donde muchas personas comparten información personal sin darse cuenta
 
--Correos electrónicos y cuentas antiguas comprometidas
+- Correos electrónicos y cuentas antiguas comprometidas
 
--Compra de bases de datos robadas
+- Compra de bases de datos robadas
 
 Organismos oficiales como INCIBE han advertido que gran parte de estos datos ya circulan por internet debido a brechas de seguridad pasadas.
 
 ### Los datos más utilizados suelen ser:
 
--Nombre y apellidos
+- Nombre y apellidos
 
--Número de teléfono
+- Número de teléfono
 
--DNI o documento de identidad
+- DNI o documento de identidad
 
--Fecha de nacimiento
+- Fecha de nacimiento
 
--Dirección postal
+- Dirección postal
 
--Operador de telefonía
+- Operador de telefonía
 
--Respuestas a preguntas de seguridad
+- Respuestas a preguntas de seguridad
 
 Con una combinación de estos datos, los estafadores pueden convencer al operador de que son el titular legítimo de la línea y solicitar un duplicado de la **tarjeta SIM**.
 
+## Uso de la deep web y mercados ilegales
+
+En muchos casos, los datos personales se compran y venden en la deep web, especialmente en foros y mercados ilegales. En estos espacios:
+
+- Se venden listas de números de teléfono con datos personales asociados
+
+- Se intercambian credenciales filtradas de servicios online
+
+- Se agrupan datos de una misma persona para facilitar fraudes como el SIM Swapping
+
+Estos mercados funcionan de forma anónima y suelen usar criptomonedas, lo que dificulta la identificación de los responsables. El SIM Swapping silencioso se apoya en este comercio ilegal de información para que el ataque sea rápido y efectivo.
 ## Por qué es una estafa poco común
 No hay interacción directa con la víctima
 No aparecen mensajes sospechosos ni enlaces
